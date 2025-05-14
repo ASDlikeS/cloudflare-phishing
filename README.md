@@ -19,7 +19,7 @@
 # In directory Frontend you have to install dependencies for bun
 $ bun install
 
-# In root directory, you have to install flask from requriments.txt
+# In directory Server, you have to install flask from requriments.txt
 $ pip install -r requriments.txt
 ```
 
