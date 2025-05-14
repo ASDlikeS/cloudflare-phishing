@@ -1,6 +1,15 @@
 # Cloudflare phishing
 ## That's useful thing for gathering meta-datas by using redirect in other sites.
 ---
+### Getting start
+- Installing dependencies
+```bash
+# In directory Frontend you have to install dependencies for bun
+$ bun install
+
+# In root directory, you have to install flask from requriments.txt
+$ pip install -r requriments.txt
+```
 ### CHANGES
 - In directory Frontend, exists file App.tsx, you have to change below:
 ```js
