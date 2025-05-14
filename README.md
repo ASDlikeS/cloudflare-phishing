@@ -10,7 +10,6 @@ setTimeout(() => {
     }, 1000);
 
 // Your tunnel
-
 const response = await fetch(
       "http://<DOMAIN YOUR TUNNEL>",
       {
